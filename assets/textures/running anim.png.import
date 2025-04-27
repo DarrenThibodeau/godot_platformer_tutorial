@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://brn4xn67o6g11"
-path="res://.godot/imported/_CrouchWalk.png-89dcc7c73b8c4d69d463c2531b63283d.ctex"
+uid="uid://cthkkwtbcgpnw"
+path="res://.godot/imported/running anim.png-0e1296b9347f269c0739b863238c7299.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/_CrouchWalk.png"
-dest_files=["res://.godot/imported/_CrouchWalk.png-89dcc7c73b8c4d69d463c2531b63283d.ctex"]
+source_file="res://assets/textures/running anim.png"
+dest_files=["res://.godot/imported/running anim.png-0e1296b9347f269c0739b863238c7299.ctex"]
 
 [params]
 
